@@ -1,0 +1,8 @@
+.hero-section {
+    background-color: rgba(0, 0, 0, 0.5); /* Optional: Add overlay effect */
+    color: white;
+}
+
+.hero-text {
+    max-width: 600px;
+}
